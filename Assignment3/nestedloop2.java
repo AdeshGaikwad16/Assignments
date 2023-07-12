@@ -134,18 +134,19 @@ public class nestedloop2 {
     //  M n O p
     static void loop8(){
         char ch='A';
-        char dh='b';
+        char dh='a';
         for(int i=1;i<=4;i++){
             for(int j=1;j<=4;j++){
                 if(j%2==0){
                     System.out.print(dh+" ");
-                    dh++; 
-                    dh++;
+                   
                 }else{
                     System.out.print(ch+" ");
-                    ch++; 
-                    ch++;
+                    
                 }
+                ch++; 
+                     dh++; 
+                    
             }System.out.println();
         }
     }
@@ -181,17 +182,17 @@ public class nestedloop2 {
     static void loop10(){
         for(int i=1;i<=6;i++){
             char ch='F';
-            int n=5;
+            int n=6;
             for(int j=1;j<=6;j++){
                 if(j%2!=0){
                 System.out.print(ch+" ");
-                ch--;
-                ch--;
+                
                 }else{
                     System.out.print(n+" ");
-                    n--;
-                    n--;
+                    
                 }
+                ch--;
+                n--;
             }System.out.println();
         }
     }
