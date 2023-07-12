@@ -1,4 +1,4 @@
-package Assignments.Assignment1;
+package Assignment1;
 
 public class oddeven {
     public static void main(String[] args) {

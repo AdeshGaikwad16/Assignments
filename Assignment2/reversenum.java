@@ -1,4 +1,4 @@
-package Assignments.Assignment2;
+package Assignment2;
 // write the program to reverse the given number
 // input:123456789
 // output:987654321

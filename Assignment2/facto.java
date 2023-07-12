@@ -1,4 +1,4 @@
-package Assignments.Assignment2;
+package Assignment2;
 
 public class facto {
     public static void main(String[] args) {

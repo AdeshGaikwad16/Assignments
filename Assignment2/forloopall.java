@@ -1,4 +1,4 @@
-package Assignments.Assignment2;
+package Assignment2;
 
 public class forloopall {
     public static void main(String[] args) {

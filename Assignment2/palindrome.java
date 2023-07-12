@@ -1,4 +1,4 @@
-package Assignments.Assignment2;
+package Assignment2;
 // write whether the number is palindrome number or not(2332)
 // output: 2332 is a palindrome number
 
